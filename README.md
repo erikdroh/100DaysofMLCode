@@ -1,16 +1,57 @@
 # 100DaysOfMLCode
 
-## Summary of Days
-
-### Day 1 - Deep Neural Network
+## Day 1 - ???
 
 Contents:
-- Item 1
-- Item 2
-- Item 3
 
 Description:
-Today I learned about x, y and z and created a neural network which was able to do this and that!
+
+## Day 2 - ???
+
+Contents:
+
+Description:
+
+## Day 3 - ???
+
+Contents:
+
+Description:
+
+## Day 4 - ???
+
+Contents:
+
+Description:
+
+## Day 5 - ???
+
+Contents:
+
+Description:
+
+## Day 6 - ???
+
+Contents:
+
+Description:
+
+## Day 7 - ???
+
+Contents:
+
+Description:
+
+
+
+
+
+
+
+
+
+
+
 
 ## Overview
 
