@@ -1,5 +1,17 @@
 # 100DaysOfMLCode
 
+## Summary of Days
+
+### Day 1 - Deep Neural Network
+
+Contents:
+- Item 1
+- Item 2
+- Item 3
+
+Description:
+Today I learned about x, y and z and created a neural network which was able to do this and that!
+
 ## Overview
 
 These are the instructions for [this](https://www.youtube.com/watch?v=cuQMBj1cWPo&t=7s) video on Youtube by Siraj Raval for the #100DaysofMLCode Challenge. 
