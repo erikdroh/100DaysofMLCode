@@ -1,42 +1,44 @@
 # 100DaysOfMLCode
 
-## Day 1 - ???
+Below you can find short summarys of what was done for each day during the challange
+
+## Day 1 - 30/7-2018 - ???
 
 Contents:
 
 Description:
 
-## Day 2 - ???
+## Day 2 - 31/7-2018 - ???
 
 Contents:
 
 Description:
 
-## Day 3 - ???
+## Day 3 - 1/8-2018 - ???
 
 Contents:
 
 Description:
 
-## Day 4 - ???
+## Day 4 - 2/8-2018 - ???
 
 Contents:
 
 Description:
 
-## Day 5 - ???
+## Day 5 - 3/8-2018 - ???
 
 Contents:
 
 Description:
 
-## Day 6 - ???
+## Day 6 - 4/8-2018 - ???
 
 Contents:
 
 Description:
 
-## Day 7 - ???
+## Day 7 - 5/8-2018 - ???
 
 Contents:
 
