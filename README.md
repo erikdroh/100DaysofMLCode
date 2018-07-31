@@ -2,7 +2,7 @@
 
 Below you can find short summarys of what was done for each day during the challange
 
-## Day 1 - 30/7-2018 - ???
+## Day 1 - 30/7-2018 - 
 
 Contents:
 
@@ -39,6 +39,24 @@ Contents:
 Description:
 
 ## Day 7 - 5/8-2018 - ???
+
+Contents:
+
+Description:
+
+## Day 8 - 6/8-2018 - ???
+
+Contents:
+
+Description:
+
+## Day 9 - 7/8-2018 - ???
+
+Contents:
+
+Description:
+
+## Day 10 - 8/8-2018 - ???
 
 Contents:
 
